@@ -1,7 +1,12 @@
 {
     "name": "mytest-npm-package",
-    "version": "0.01",
+    "version": "0.0.1",
     "description": "a test package for understanding npm",
     "keywords": ["test", "npm", "8dfjg"],
-    "files": ["main.js", "file2.txt"]
+    "files": ["main.js", "file2.txt"],
+    "repository": 
+    {
+	"type": "git",
+	"url": "https://github.com/commander-joseph/npm_test"
+    }
 }
