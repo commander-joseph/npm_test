@@ -1,0 +1,7 @@
+{
+    "name": "mytest-npm-package",
+    "version": "0.01",
+    "description": "a test package for understanding npm",
+    "keywords": ["test", "npm", "8dfjg"],
+    "files": ["main.js", "file2.txt"]
+}
